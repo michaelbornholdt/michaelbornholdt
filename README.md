@@ -1,16 +1,17 @@
 ### Hi there 👋
+I am...
 
-<!--
-**michaelbornholdt/michaelbornholdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc in Computational Science @ TU Munich 
+Machine Learning Engineer & Project Manager @ Springbok AI 
 
-Here are some ideas to get you started:
+previously: B.Sc. in Physics from University of Hamburg, Imperial College London and UWA Perth;
+In addtion: work experience in Data Science, Strategy consulting and research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in NLP, ML, Tech Consulting, Start-ups, international politics, and leadership topics
+
+Working on: [Rasa](https://rasa.com/) chatbots
+Learning: ML, NLP and image processing
+Preferred Programming Language: Python 3
+Searching for: Position in early 2022 & inspiring mentor
+Ask me about: Chatbots, NLP, Rasa, Computer Vision, Data Science, Physics, Card & board games
+CV: [LinkedIn](https://www.linkedin.com/in/michael-bornholdt-576732a9/)
