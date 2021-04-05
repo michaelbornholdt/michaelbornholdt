@@ -2,7 +2,9 @@
 I am...
 
 MSc in Computational Science @ TU Munich  
-Machine Learning Engineer & Project Manager @ Springbok AI  
+Visiting Graduate Researcher @ Broad Institute of MIT and Harvard
+Machine Learning Engineer & Project Manager @ Springbok AI
+
 
 previously: B.Sc. in Physics from University of Hamburg, Imperial College London and UWA Perth; 
 In addtion: work experience in Data Science, Strategy consulting and research. 
