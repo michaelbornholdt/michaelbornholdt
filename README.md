@@ -2,7 +2,7 @@
 I am...
 
 MSc in Computational Science @ TU Munich  
-Visiting Graduate Researcher @ Broad Institute of MIT and Harvard
+Visiting Graduate Researcher @ Broad Institute of MIT and Harvard   
 Machine Learning Engineer & Project Manager @ Springbok AI
 
 
