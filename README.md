@@ -1,9 +1,10 @@
 My [LinkedIn](https://www.linkedin.com/in/michael-bornholdt-pi314159/) is up to date!
 ### Hi there 👋
 
-I am a Senior Public Project Manager @Merantix Momentum. My job is helping the public sector deploy AI solutions that make our government more efficient! 
+I am a Senior Solutions Manager @Bundesdruckerei. My job is working with the public sector (mainly the BMDS) to build and deploy AI solutions at scale! Not just chatbots, but properly integrated agent systems.  
 
 Former Education and Employees: 
+- Senior Public Project Manager @Merantix Momentum where I built the public sector practice from the ground up.
 - Visiting Graduate Researcher @ Broad Institute of MIT and Harvard   
 - Machine Learning Engineer & Project Manager @ Springbok AI and Check24
 - MSc in Computational Science @ TU Munich  
